@@ -1,5 +1,5 @@
 {
-  "body": "**HOTFIX BUILD** - **CHANGELOG**:\r\n\r\n\r\n**FIX**: update image and fix bug, improve performance.",
+  "body": "**HOTFIX BUILD** - **CHANGELOG**:\r\n\r\n\r\n**FIX**: update store image and fix bug, improve performance.",
   "requireUpdate": "false",
   "androidAppId": "it.sondo.elpa",
   "iOSAppId": "it.sondo.elpa"
