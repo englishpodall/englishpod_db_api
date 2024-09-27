@@ -1,6 +1,6 @@
 {
-  "body": "**HOTFIX BUILD** - **CHANGELOG**:\r\n\r\n\r\n**FIX**: Resolved Access Issues to Lesson Data in Certain Regions of China. Thank you for using our app!",
-  "requireUpdate": "false",
+  "body": "**HOTFIX BUILD** - **CHANGELOG**:\r\n\r\n\r\n**FIX**: We've fixed an important bug. Please update the app to the latest version for the best experience. We apologize for any inconvenience",
+  "requireUpdate": "true",
   "androidAppId": "it.sondo.elpa",
   "iOSAppId": "6478921247"
 }
