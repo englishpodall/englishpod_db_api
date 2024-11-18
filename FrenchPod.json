@@ -3,16 +3,27 @@
     "ytid": "PLWiCoZNyCaTNOh_6N0Q2_lRxP2YAGGA0N",
     "title": "I am American",
     "level": "Newbie",
-    "fileUrl": "https://ia800100.us.archive.org/23/items/frenchpod/frenchpod_0001.pdf",
-    "image": "https://i.ibb.co/F6C51jK/I-am-American.webp",
+    "fileUrl":
+        "https://ia800100.us.archive.org/23/items/frenchpod/frenchpod_0001.pdf",
+    "image": "https://i.ibb.co/23tTxBs/I-am-American.png",
     "list": []
   },
   {
     "ytid": "PLWiCoZNyCaTMFNfoniH0MtGc9oK5HDu2E",
     "title": "I'm cold",
     "level": "Newbie",
-    "fileUrl": "https://ia800100.us.archive.org/23/items/frenchpod/frenchpod_0002.pdf",
+    "fileUrl":
+        "https://ia800100.us.archive.org/23/items/frenchpod/frenchpod_0002.pdf",
     "image": "https://i.ibb.co/PYw2rnF/I-m-cold.webp",
+    "list": []
+  },
+  {
+    "ytid": "PLWiCoZNyCaTMrX3YqJM70UpYPKEtrF8eR",
+    "title": "Bad Movie",
+    "level": "Newbie",
+    "fileUrl":
+        "https://ia800100.us.archive.org/23/items/frenchpod/frenchpod_0003.pdf",
+    "image": "https://i.ibb.co/KW5SVp9/Bad-Movie.png",
     "list": []
   }
 ]
