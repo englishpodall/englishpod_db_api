@@ -3,8 +3,18 @@
     "ytid": "PLp-wt1j12yqCcuKFBcT9krJwE90re1acn",
     "title": "You need a girlfriend",
     "level": "Newbie",
-    "fileUrl": "https://ia800100.us.archive.org/28/items/italianpod/italianpod_0001.pdf",
-    "image": "https://i.ibb.co/Wy0Ssps/You-need-a-girlfriend.webp",
+    "fileUrl":
+        "https://ia800100.us.archive.org/28/items/italianpod/italianpod_0001.pdf",
+    "image": "https://i.imgur.com/vxZ0WjU.png",
+    "list": []
+  },
+  {
+    "ytid": "PLp-wt1j12yqC-e3wNY-F2-4eT5By4-gsY",
+    "title": "Where is she?",
+    "level": "Newbie",
+    "fileUrl":
+        "https://ia800100.us.archive.org/28/items/italianpod/italianpod_0002.pdf",
+    "image": "https://i.imgur.com/ZNRCI5b.png",
     "list": []
   }
 ]
