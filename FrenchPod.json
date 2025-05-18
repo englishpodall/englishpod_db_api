@@ -59,8 +59,7 @@
     "ytid": "PLWiCoZNyCaTO7d-tvi6gvgviMvwaeulAB",
     "title": "La Fête de la Musique",
     "level": "Elementary",
-    "fileUrl":
-        "https://ia800100.us.archive.org/23/items/frenchpod/frenchpod_0035.pdf",
+    "fileUrl": "https://ia800100.us.archive.org/23/items/frenchpod/frenchpod_0035.pdf",
     "image": "https://i.imgur.com/R8KgEau.png",
     "list": []
   },
@@ -110,6 +109,14 @@
     "level": "Elementary",
     "fileUrl": "https://ia800100.us.archive.org/23/items/frenchpod/frenchpod_0017.pdf",
     "image": "https://i.ibb.co/yymd63M/I-m-lost.png",
+    "list": []
+  },
+  {
+    "ytid": "PLWiCoZNyCaTPA7tVOj1Y-bdoQ1CSmBl32",
+    "title": "Shall we go in the water?",
+    "level": "Intermediate",
+    "fileUrl": "https://ia800100.us.archive.org/23/items/frenchpod/frenchpod_0036.pdf",
+    "image": "https://i.ibb.co/m572J8Ys/Shall-we-go-in-the-water.png",
     "list": []
   },
   {
